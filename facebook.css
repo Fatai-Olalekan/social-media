@@ -1,0 +1,30 @@
+
+body {background-color: #D4D8E8;}
+header {background-color:  #3b5998; color: white; height: 5em; box-sizing: padding-box;}
+header h1 { width:20px; font-family: sans-serif; margin-left: 6em; padding-top: .5em}
+header  div.miracle {margin-left:58em;  color: white; font-size:15px; margin-top: -60px;line-height: 20%;}
+header div.good {margin-left:70em;  color: white; font-size:15px; margin-top: -60px;line-height: 20%;}
+header  div.good input#miracle {background-color: darkblue; color: white; border-style: none;}
+div#cream{color: #3b5998;
+margin-left: 11.2em;
+background-image: url(facebook.png);
+ margin-top: 2px;
+    height: 20em; width: 500px;
+     background-position: 0px 70px;
+      float:left; font-size: 16px;}
+      input.space {width:26em;}
+div#new {margin-right: 16em; text-align: left; height: 90%; width: 30em; float: right;
+color:darkblue;}
+ol {list-style-type: none; display: inline;}
+div#new ol#volley li {display: inline;}
+ol#volley li a#bella { margin-left: 10px; text-align: center; padding: 3px;text-decoration: none; border-radius: 10px; background-color: #3b5998; color: white; width: 40px; height: 40px;}
+div#new p input#man {background-color:darkgreen; color: white; width: 15em; font-size: 16px;}
+div.hammer p {display: inline;}
+div.bar  p{line-height: 20%;}
+footer pre#van { width: 100%;  clear: both; margin-left: 100px; line-height: 20px; height: 30px;  text-align: left; color: darkblue;}
+main {background-color:#D4D8E8;}
+p a#go { color: #ffffff; background-color: #D4D8E8; border-radius: 15px; text-decoration: none; margin-left: 10px; text-align: center; padding: 3px; background-color: #3b5998;}
+div#kar {background-color: #E1E8ED;}
+p#wen {font-size: 15px; margin-left: 100px; margin-top: 50px; }
+footer  {background-color: #fff; position: absolute; top: 650px; width: 100%; padding-top: 20px; height: 170px;}
+form main  {background-color:#D4D8E8; padding: 20px;}
