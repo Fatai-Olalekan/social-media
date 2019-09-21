@@ -3,7 +3,7 @@ body {background-color: #D4D8E8;}
 header {background-color:  #3b5998;; color: white; height: 6em; box-sizing: padding-box;}
 header h1 { width:20px; font-family: sans-serif; margin-left: 6em; margin-top: -10px; padding-top: 20px;}
 header  div.miracle {margin-left:58em;  color: white; font-size:15px; margin-top: -60px;line-height: 20%;}
-header div.good {margin-left:70em;  color: white; font-size:15px; margin-top: -75px;line-height: 20%;}
+header div.good {margin-left:72em;  color: white; font-size:15px; margin-top: -70px;line-height: 20%;}
 header  div.good input#miracle {background-color: darkblue; color: white; border-style: none;}
 div#cream{color: #3b5998;
 margin-left: 11.2em;
@@ -13,7 +13,7 @@ background-image: url(facebook.png);
      background-position: 0px 70px;
       float:left; font-size: 16px;}
       input.space {width:26em;}
-div#new {margin-right: 16em; text-align: left; height: 90%; width: 30em; float: right;
+div#new {margin-right: 13em; text-align: left; height: 90%; width: 30em; float: right;
 color:darkblue;}
 ol {list-style-type: none; display: inline;}
 div#new ol#volley li {display: inline;}
@@ -31,5 +31,5 @@ form main  {background-color:#D4D8E8; padding: 20px;}
 input.space {height: 30px; width: 400px;}  
 input.pace {height: 30px;}  
 div.hammer p input.pace {padding-left: 27px;}  
-input.pad {height: 30px;}
+input.pad {height: 25px; width: 200px;}
 a#last {color: #ffff; text-decoration: none;}
